@@ -113,13 +113,3 @@ RedisInsight is a graphical tool for viewing data in Redis and managing Redis se
 To use RedisInsight, you'll need to [download it](https://redis.io/docs/ui/insight/) then point it at your Redis instance.
 
 If you're using the Docker Compose file provided with this course to run Redis Stack, you can optionally choose to access a web-based version of Redis Stack at `http://localhost:8001` whenever the container is running.
-
-Need Help / Join our Community
----
-
-If you need help with the course or want to chat to your fellow students and the wider Redis community, please [join us on our Discord server](https://discord.gg/jucCB8h).
-
-Subscribe to our YouTube Channel / Follow us on Twitch
----
-
-We'd love for you to [check out our YouTube channel](https://youtube.com/redisinc), and subscribe if you want to see more Redis videos!  We also stream regularly on our [Twitch.tv channel](https://www.twitch.tv/redisinc) - follow us to be notified when we're live or check out our [streaming schedule](https://developer.redis.com/redis-live).
